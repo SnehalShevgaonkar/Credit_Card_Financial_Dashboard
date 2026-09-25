@@ -1,5 +1,4 @@
-# Credit_Card_Financial_Dashboard
-Power bi Dashboard
+
 # Credit Card Financial Dashboard
 
 A Power BI-based financial dashboard designed to analyze credit card usage, customer behavior, and overall portfolio performance.
